@@ -189,8 +189,9 @@ header.masthead h1 {
 }
 
 header.masthead p {
-  font-weight: 300;
-   text-shadow: #212529 2px 2px;
+  font-weight: 800;
+  color: #212529;
+  text-shadow: #212529
 }
 
 @media (min-width: 768px) {
